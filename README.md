@@ -14,4 +14,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Larsundso&show_icons=true&theme=merko )
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Larsundso&theme=merko&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Larsundso&theme=merko&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Larsundso&theme=merko)
