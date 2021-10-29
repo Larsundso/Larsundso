@@ -7,7 +7,7 @@
 <a href="https://support.ayakobot.com" target="_blank"><img src="https://img.shields.io/badge/Discord-Ayako%20Support-b0ff00?style=flat&logo=discord&logoColor=white"/>
 <p align="center"><a href="https://discord.gg/aj63GaGGvu" target="_blank"><img src="https://img.shields.io/badge/Discord-Gameverse-b0ff00?style=flat&logo=discord&logoColor=white"/>
 <a href="https://discord.gg/pats" target="_blank"><img src="https://img.shields.io/badge/Discord-Cozy%20Kingdom-b0ff00?style=flat&logo=discord&logoColor=white"/>
-<a href="https://discord.gg/willis" target="_blank"><img src="https://img.shields.io/badge/Discord-WiLLiS%20Gaming-b0ff00?style=flat&logo=discord&logoColor=white"/>
+<a href="https://discord.gg/willis" target="_blank"><img src="https://img.shields.io/badge/Discord-WiLLiS%20Gaming-b0ff00?style=flat&logo=discord&logoColor=white"/></a>
     
 
 
