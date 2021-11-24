@@ -17,3 +17,6 @@
 <h3 align="center">Main Project: Ayako v1.5</h3>
 <p align="center"><a href="https://discord.gg/animekos" target="_blank"><img src="https://wakatime.com/badge/github/Larsundso/Ayako-v1.5.svg"/></a></p>
 <p align="center"><a>Timer started at 1st Nov. 2021</a></p>
+<p align="center"><a href="https://top.gg/bot/650691698409734151">
+  <img src="https://top.gg/api/widget/650691698409734151.svg">
+</a>
