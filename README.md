@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://ayakobot.com"><img src="PFP.png" alt="Lars_und_so" width=500></a>
-</p>
-
 <h3 align="center">My Servers</h3>
 <p align="center"><a href="https://discord.gg/animekos" target="_blank"><img src="https://img.shields.io/badge/Discord-Animekos-b0ff00?style=flat&logo=discord&logoColor=white"/></a>
 <a href="https://support.ayakobot.com" target="_blank"><img src="https://img.shields.io/badge/Discord-Ayako%20Support-b0ff00?style=flat&logo=discord&logoColor=white"/></a>
