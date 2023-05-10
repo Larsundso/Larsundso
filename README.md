@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/Larsundso?template=classic)
+
 <h3 align="center">My Servers</h3>
 
 <p align="center">
