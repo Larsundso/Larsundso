@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/Larsundso?template=classic)
+![Metrics](/github-metrics.svg)
 
 <h3 align="center">My Servers</h3>
 
