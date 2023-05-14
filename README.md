@@ -3,7 +3,7 @@ Hi! I'm Lars!
 
 ![GitHub followers](https://img.shields.io/github/followers/Larsundso?label=Follow&style=flat-square) [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981.svg)](https://wakatime.com/@dd3b35d0-d275-4870-a3d1-a0158fd38981)
 
-Main Project:
+Main Project:  
 <a href="https://top.gg/bot/650691698409734151">
 <img src="https://top.gg/api/widget/650691698409734151.svg">
 </a>
