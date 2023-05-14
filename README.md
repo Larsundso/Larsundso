@@ -84,6 +84,4 @@ Main Project:
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Website-Backend&theme=dracula)](https://github.com/AyakoBot/Website-Backend)   | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/6ec69bc0-78e4-45c8-9f9e-dca1c5b650e8.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/6ec69bc0-78e4-45c8-9f9e-dca1c5b650e8) |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Website-Frontend&theme=dracula)](https://github.com/AyakoBot/Website-Frontend) | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/25495a7e-4658-4110-83e9-6e2e8ce8164b.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/25495a7e-4658-4110-83e9-6e2e8ce8164b) |
 
-|
-
 </details>
