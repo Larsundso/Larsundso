@@ -43,6 +43,7 @@ Main Project:
 <img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/393836741272010752.gif" width="16"> Languages: English, German  
 <img src="https://cdn.discordapp.com/emojis/968488315659632690.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/864572647034454050.gif" width="16"> Food: Sushi, Fricassee  
 
+Started this recently:
 [![Avior's code::stats stats](https://codestats-readme.avior.me/api?username=Lars_und_so&show_icons)](https://github.com/Aviortheking/codestats-readme)
 
 ---
