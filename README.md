@@ -66,17 +66,15 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C499%20hrs%2030%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-926.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-894.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 354.7 kB Used in GitHub's Storage 
+> 📦 355.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,382 Contributions in the Year 2023
+> 🏆 1,383 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,54 +82,6 @@ Started this recently:
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-🌆 Daytime                1809 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌃 Evening                1502 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
-🌙 Night                  874 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   707 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Tuesday                  729 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                975 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 808 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Friday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Saturday                 422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Sunday                   465 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               16 hrs 43 mins      ██████████████████████░░░   88.50 % 
-JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Prisma                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-PHP                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 53 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Ayako-v2                 16 hrs 39 mins      ██████████████████████░░░   88.16 % 
-4c6050b8687ccdaf526cee0001 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-81c2229ea9a76520f22849d4354 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-sswfn-corporate-website  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Ayako-v1.5               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-💻 Operating System: 
-Linux                    18 hrs 45 mins      █████████████████████████   99.28 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -149,7 +99,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 00:08:03 UTC
+ Last Updated on 07/12/2023 00:07:26 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
