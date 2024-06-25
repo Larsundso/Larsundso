@@ -3,6 +3,8 @@ Hi! I'm Lars!
 
 ![GitHub followers](https://img.shields.io/github/followers/Larsundso?label=Follow&style=flat-square) [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981.svg)](https://wakatime.com/@dd3b35d0-d275-4870-a3d1-a0158fd38981)
 
+![](https://komarev.com/ghpvc/?username=larsundso)
+
 Main Project:  
 <a href="https://top.gg/bot/650691698409734151">
 <img src="https://top.gg/api/widget/650691698409734151.svg">
@@ -172,3 +174,4 @@ Java                     1 repo              █░░░░░░░░░░�
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Website-Frontend&theme=dracula)](https://github.com/AyakoBot/Website-Frontend) | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/25495a7e-4658-4110-83e9-6e2e8ce8164b.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/25495a7e-4658-4110-83e9-6e2e8ce8164b) |
 
 </details>
+
