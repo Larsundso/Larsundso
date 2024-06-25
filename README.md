@@ -161,7 +161,7 @@ Java                     1 repo              █░░░░░░░░░░�
 </details>
 
 <details>
-<summary><b>🧾 Projects</b></summary>
+<summary><b>🧾 Active Projects</b></summary>
 <hr>
 
 | Project                                                                                                                                                               | Status                                                                                                                                                                                                                                                  |
@@ -169,9 +169,25 @@ Java                     1 repo              █░░░░░░░░░░�
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Larsundso&repo=waifu.pics&theme=dracula)](https://github.com/Larsundso/waifu.pics)           | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/d21d2379-0d92-4e28-b9a4-acbbd403572d.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/d21d2379-0d92-4e28-b9a4-acbbd403572d) |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Larsundso&repo=purrbot-api&theme=dracula)](https://github.com/Larsundso/purrbot-api)         | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/31ee32ad-665a-4ad4-91fe-b3bb6b55d79d.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/31ee32ad-665a-4ad4-91fe-b3bb6b55d79d) |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Ayako-v2&theme=dracula)](https://github.com/AyakoBot/Ayako-v2)                 | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/111a2fa0-b455-463c-9303-daaf3237bfb6.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/df3d8849-2e01-443c-bb30-491c3e4a8d09) |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Server&theme=dracula)](https://github.com/AyakoBot/Server)                     | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/69143c1e-620e-48d7-a802-c6524c4c5d0a.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/69143c1e-620e-48d7-a802-c6524c4c5d0a) |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Website&theme=dracula)](https://github.com/AyakoBot/Website)                   | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/ed78acca-23f5-47f1-888b-5b8e265ff65d.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/ed78acca-23f5-47f1-888b-5b8e265ff65d) |
+| Private Repo & Private Discord Bot                                                                                                                                    | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/1d86fd39-fe67-4693-b717-f5d1b14e2c80.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/1d86fd39-fe67-4693-b717-f5d1b14e2c80) |
+| Private Repo & Private Discord Bot                                                                                                                                    | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/9f91f0cb-9a8f-4f50-98fe-8513644e9990.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/9f91f0cb-9a8f-4f50-98fe-8513644e9990) |
+| [![Discord Bots](https://top.gg/api/widget/711428816127393844.svg)](https://top.gg/bot/711428816127393844)                                                             | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/89342bfb-108a-41bd-9f60-f8b839cebe69.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/89342bfb-108a-41bd-9f60-f8b839cebe69) |
+
+</details>
+
+<details>
+<summary><b>🗝️ Archived / Old Projects</b></summary>
+<hr>
+
+| Project                                                                                                                                                               | Status                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Ayako-v1.5&theme=dracula)](https://github.com/AyakoBot/Ayako-v1.5)             | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/d6de1fb5-f3e0-4fbe-a14c-40aa74e5b9e4.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/d6de1fb5-f3e0-4fbe-a14c-40aa74e5b9e4) |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Website-Backend&theme=dracula)](https://github.com/AyakoBot/Website-Backend)   | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/6ec69bc0-78e4-45c8-9f9e-dca1c5b650e8.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/6ec69bc0-78e4-45c8-9f9e-dca1c5b650e8) |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AyakoBot&repo=Website-Frontend&theme=dracula)](https://github.com/AyakoBot/Website-Frontend) | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/25495a7e-4658-4110-83e9-6e2e8ce8164b.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/25495a7e-4658-4110-83e9-6e2e8ce8164b) |
+| [![Discord Bots](https://top.gg/api/widget/968802830624374815.svg)](https://top.gg/bot/650691698409734151)                                                             | [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/018c57fd-cc45-4388-af36-04d1cc42d9c8.svg)](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981/project/018c57fd-cc45-4388-af36-04d1cc42d9c8) |
+
 
 </details>
 
