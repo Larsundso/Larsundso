@@ -68,17 +68,17 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C353%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C355%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 477.6 kB Used in GitHub's Storage 
+> 📦 479.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,509 Contributions in the Year 2024
+> 🏆 2,511 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,21 +89,21 @@ Started this recently:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1852 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-🌆 Daytime                5434 commits        ████████████░░░░░░░░░░░░░   49.55 % 
-🌃 Evening                2555 commits        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-🌙 Night                  1126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+🌞 Morning                1922 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+🌆 Daytime                5649 commits        █████████████░░░░░░░░░░░░   50.12 % 
+🌃 Evening                2573 commits        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+🌙 Night                  1126 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1006 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Tuesday                  1593 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Wednesday                1986 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Thursday                 2502 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Friday                   2398 commits        █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Saturday                 637 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Sunday                   845 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Monday                   1013 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Tuesday                  1638 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                2045 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Thursday                 2594 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Friday                   2498 commits        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Saturday                 637 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Sunday                   845 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 
@@ -113,16 +113,18 @@ Sunday                   845 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 25 mins        ██████████████████████░░░   89.69 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Prisma                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Ayako-v2                 1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,7 +144,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2024 00:10:17 UTC
+ Last Updated on 30/08/2024 00:10:49 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
