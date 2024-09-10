@@ -68,15 +68,17 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C389%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 473.0 kB Used in GitHub's Storage 
+> 📦 523.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,628 Contributions in the Year 2024
+> 🏆 2,640 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,6 +86,55 @@ Started this recently:
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2109 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+🌆 Daytime                6222 commits        █████████████░░░░░░░░░░░░   51.38 % 
+🌃 Evening                2641 commits        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+🌙 Night                  1137 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1060 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Tuesday                  1752 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Wednesday                2187 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Thursday                 2839 commits        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Friday                   2762 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Saturday                 645 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Sunday                   864 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+YAML                     3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+TypeScript               3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Twig                     2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Docker                   2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Bash                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 50 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Ayako                    5 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+Ayako-v2                 4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+mfn-flexfair             3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Server                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Kiyu                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+
+💻 Operating System: 
+WSL                      13 hrs 12 mins      ███████████████████░░░░░░   74.01 % 
+Linux                    4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,7 +152,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2024 00:10:28 UTC
+ Last Updated on 10/09/2024 00:11:57 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
