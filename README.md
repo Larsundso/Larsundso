@@ -14,9 +14,9 @@ Main Project:
 
 <img src="https://cdn.discordapp.com/emojis/946108238737338388.webp" width="16"> **Me**  
 <img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/924071140257841162.webp" width="16"> Name: Lars  
-<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/807752347782086707.webp" width="16"> Born: `22 years ago`  
+<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/807752347782086707.webp" width="16"> Born: `23 years ago`  
 <img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/864572610284224523.webp" width="16"> Death: `Invalid Date`  
-<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/1042174387731845212.webp" width="16"> Discord: `Lars_und_so#0666`  
+<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/1042174387731845212.webp" width="16"> Discord: `@lars_und_so`  
 <img src="https://cdn.discordapp.com/emojis/968488315659632690.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/818265329460445204.gif" width="16"> Nationality: German  
 
 <img src="https://cdn.discordapp.com/emojis/946108238737338388.webp" width="16"> **Hobbies**  
@@ -68,91 +68,6 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C572%20hrs%2029%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 533.2 kB Used in GitHub's Storage 
- > 
-> 🏆 3,128 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2545 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-🌆 Daytime                6945 commits        █████████████░░░░░░░░░░░░   51.65 % 
-🌃 Evening                2755 commits        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-🌙 Night                  1202 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1200 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Tuesday                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                2305 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Thursday                 3180 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Friday                   3082 commits        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Saturday                 691 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Sunday                   899 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-PHP                      6 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Svelte                   3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-TypeScript               3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Other                    2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Twig                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 59 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-mfn-flexfair             8 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.06 % 
-Dashboard                4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Kiyu                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-apps                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Fih                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-
-💻 Operating System: 
-Linux                    8 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.34 % 
-WSL                      8 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.52 % 
-Windows                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               25 repos            ██████████░░░░░░░░░░░░░░░   40.98 % 
-Svelte                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
-
-
- Last Updated on 06/11/2024 00:11:56 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
