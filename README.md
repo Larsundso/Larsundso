@@ -68,15 +68,13 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C156%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C157%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 616 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,18 +86,18 @@ Started this recently:
 
 ```text
 🌞 Morning                5262 commits        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-🌆 Daytime                13217 commits       █████████████░░░░░░░░░░░░   53.81 % 
+🌆 Daytime                13218 commits       █████████████░░░░░░░░░░░░   53.81 % 
 🌃 Evening                4133 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 🌙 Night                  1951 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2265 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Monday                   2266 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 Tuesday                  4425 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 Wednesday                3632 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Thursday                 6125 commits        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-Friday                   5560 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Thursday                 6125 commits        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+Friday                   5560 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
 Saturday                 1128 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 Sunday                   1428 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
@@ -145,7 +143,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2025 14:16:50 UTC
+ Last Updated on 12/05/2025 20:10:50 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
