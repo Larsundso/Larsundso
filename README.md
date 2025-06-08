@@ -68,15 +68,13 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C259%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C261%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 765 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +85,7 @@ Started this recently:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3249 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+🌞 Morning                3250 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
 🌆 Daytime                7533 commits        ███████████░░░░░░░░░░░░░░   45.32 % 
 🌃 Evening                3858 commits        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 🌙 Night                  1981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
@@ -98,7 +96,7 @@ Started this recently:
 Monday                   1993 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 Tuesday                  3038 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
 Wednesday                2351 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Thursday                 3521 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Thursday                 3522 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
 Friday                   3132 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 Saturday                 1141 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 Sunday                   1445 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
@@ -144,7 +142,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2025 14:15:27 UTC
+ Last Updated on 08/06/2025 20:19:38 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
