@@ -68,7 +68,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C293%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C293%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -87,9 +87,9 @@ Started this recently:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3692 commits        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+🌞 Morning                3695 commits        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
 🌆 Daytime                8703 commits        ████████████░░░░░░░░░░░░░   49.04 % 
-🌃 Evening                3908 commits        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌃 Evening                3904 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
 🌙 Night                  1443 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -97,9 +97,9 @@ Started this recently:
 ```text
 Monday                   2029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 Tuesday                  3377 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Wednesday                2471 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Wednesday                2467 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 Thursday                 3995 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Friday                   3485 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Friday                   3488 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
 Saturday                 1042 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 Sunday                   1347 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 ```
@@ -145,7 +145,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 08:14:34 UTC
+ Last Updated on 20/06/2025 14:17:49 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
