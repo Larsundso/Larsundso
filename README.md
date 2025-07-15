@@ -68,7 +68,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C329%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C331%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -87,7 +87,7 @@ Started this recently:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4441 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+🌞 Morning                4440 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
 🌆 Daytime                10256 commits       █████████████░░░░░░░░░░░░   50.84 % 
 🌃 Evening                4024 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 🌙 Night                  1453 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
@@ -96,7 +96,7 @@ Started this recently:
 
 ```text
 Monday                   2249 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Tuesday                  3962 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Tuesday                  3961 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 Wednesday                2747 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
 Thursday                 4728 commits        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 Friday                   4065 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
@@ -145,7 +145,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 13:08:50 UTC
+ Last Updated on 15/07/2025 19:05:00 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
