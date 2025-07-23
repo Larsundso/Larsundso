@@ -68,7 +68,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C357%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C357%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -87,16 +87,16 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-🌆 Daytime                2855 commits        ████████░░░░░░░░░░░░░░░░░   30.83 % 
-🌃 Evening                3675 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌙 Night                  1455 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+🌞 Morning                1273 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+🌆 Daytime                2855 commits        ████████░░░░░░░░░░░░░░░░░   30.84 % 
+🌃 Evening                3675 commits        ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌙 Night                  1455 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Tuesday                  1417 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Tuesday                  1416 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 Wednesday                1501 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 Thursday                 1307 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Friday                   1189 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
@@ -145,7 +145,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 13:06:01 UTC
+ Last Updated on 23/07/2025 19:03:10 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
