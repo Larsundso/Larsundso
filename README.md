@@ -68,7 +68,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C374%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C378%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -76,7 +76,7 @@ Started this recently:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 872 Contributions in the Year 2025
+> 🏆 873 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -131,11 +131,11 @@ raleo-backend            1 hr 38 mins        ██░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            █████████████░░░░░░░░░░░░   51.85 % 
-Svelte                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               28 repos            █████████████░░░░░░░░░░░░   50.91 % 
+Svelte                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 
@@ -145,7 +145,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 07:06:23 UTC
+ Last Updated on 30/07/2025 19:05:27 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
