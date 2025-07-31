@@ -68,7 +68,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C380%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C382%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -76,7 +76,7 @@ Started this recently:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 873 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,17 +87,17 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1273 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-🌆 Daytime                2858 commits        ████████░░░░░░░░░░░░░░░░░   30.85 % 
-🌃 Evening                3672 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌞 Morning                1272 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+🌆 Daytime                2858 commits        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌃 Evening                3672 commits        ██████████░░░░░░░░░░░░░░░   39.65 % 
 🌙 Night                  1460 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Tuesday                  1416 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Wednesday                1501 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Tuesday                  1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                1501 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 Thursday                 1306 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 Friday                   1195 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 Saturday                 1051 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
@@ -145,7 +145,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2025 13:12:00 UTC
+ Last Updated on 31/07/2025 19:06:05 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
