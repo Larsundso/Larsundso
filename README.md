@@ -67,9 +67,9 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C490%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C490%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,21 +86,21 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-🌆 Daytime                2255 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌃 Evening                2777 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
+🌞 Morning                985 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌆 Daytime                2255 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌃 Evening                2777 commits        ██████████░░░░░░░░░░░░░░░   38.32 % 
 🌙 Night                  1230 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Tuesday                  1147 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  1146 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 Wednesday                1204 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
 Thursday                 1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 Friday                   929 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 Saturday                 774 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Sunday                   1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Sunday                   1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 ```
 
 
@@ -144,7 +144,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 13:10:34 UTC
+ Last Updated on 13/09/2025 19:09:45 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
