@@ -1,4 +1,4 @@
-Hi! I'm Lars!  
+Hi! I'm Lars/Lolo!  
 <img src="https://cdn.discordapp.com/emojis/1055865566314897408.webp" width="50">
 
 ![GitHub followers](https://img.shields.io/github/followers/Larsundso?label=Follow&style=flat-square) [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981.svg)](https://wakatime.com/@dd3b35d0-d275-4870-a3d1-a0158fd38981)
@@ -13,10 +13,10 @@ Main Project:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt=""> A little more about me:
 
 <img src="https://cdn.discordapp.com/emojis/946108238737338388.webp" width="16"> **Me**  
-<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/924071140257841162.webp" width="16"> Name: Lars  
+<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/924071140257841162.webp" width="16"> Name: Lolo  
 <img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/807752347782086707.webp" width="16"> Born: `23 years ago`  
 <img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/864572610284224523.webp" width="16"> Death: `Invalid Date`  
-<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/1042174387731845212.webp" width="16"> Discord: `@lars_und_so`  
+<img src="https://cdn.discordapp.com/emojis/968487821704822804.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/1042174387731845212.webp" width="16"> Discord: `@a_.lolo`  
 <img src="https://cdn.discordapp.com/emojis/968488315659632690.webp" width="16"> <img src="https://cdn.discordapp.com/emojis/818265329460445204.gif" width="16"> Nationality: German  
 
 <img src="https://cdn.discordapp.com/emojis/946108238737338388.webp" width="16"> **Hobbies**  
