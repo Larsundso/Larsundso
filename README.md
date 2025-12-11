@@ -69,7 +69,7 @@ Started this recently:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C729%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,7 +86,7 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                996 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+🌞 Morning                995 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 🌆 Daytime                2314 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
 🌃 Evening                2918 commits        ██████████░░░░░░░░░░░░░░░   38.28 % 
 🌙 Night                  1395 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
@@ -95,8 +95,8 @@ Started this recently:
 
 ```text
 Monday                   1227 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Tuesday                  1196 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Wednesday                1271 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Wednesday                1271 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 Thursday                 1081 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Friday                   964 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 Saturday                 833 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
@@ -144,7 +144,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2025 06:11:04 UTC
+ Last Updated on 11/12/2025 12:11:45 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
