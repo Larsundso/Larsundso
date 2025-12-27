@@ -67,7 +67,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C734%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C734%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.7%20million%20lines%20of%20code-blue)
 
@@ -110,14 +110,19 @@ Sunday                   1053 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Git Config               12 mins             █████████████████████████   99.78 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Git Config               12 mins             █████████████████░░░░░░░░   67.99 % 
+TypeScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VRChatSpeechAssistant    12 mins             █████████████████████████   100.00 % 
+VRChatSpeechAssistant    12 mins             █████████████████░░░░░░░░   68.14 % 
+Ayako-v2                 5 mins              ████████░░░░░░░░░░░░░░░░░   30.84 % 
+apps                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Ayako                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +142,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 18:10:53 UTC
+ Last Updated on 27/12/2025 00:22:52 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
