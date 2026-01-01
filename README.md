@@ -75,7 +75,7 @@ Started this recently:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,434 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,7 +144,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:10:06 UTC
+ Last Updated on 01/01/2026 00:26:25 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
