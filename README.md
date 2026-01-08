@@ -1,4 +1,4 @@
-Hi! I'm Lars/Lolo!  
+Hi! I'm Lolo!  
 <img src="https://cdn.discordapp.com/emojis/1055865566314897408.webp" width="50">
 
 ![GitHub followers](https://img.shields.io/github/followers/Larsundso?label=Follow&style=flat-square) [![wakatime](https://wakatime.com/badge/user/dd3b35d0-d275-4870-a3d1-a0158fd38981.svg)](https://wakatime.com/@dd3b35d0-d275-4870-a3d1-a0158fd38981)
