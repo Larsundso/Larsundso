@@ -67,7 +67,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C389%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C393%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,7 +75,7 @@ Started this recently:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 938 Contributions in the Year 2026
+> 🏆 940 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,22 +110,22 @@ Sunday                   1177 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               17 hrs 36 mins      █████████████░░░░░░░░░░░░   50.40 % 
-Markdown                 10 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Other                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-JavaScript               1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-TSConfig                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TypeScript               15 hrs 40 mins      ██████████████░░░░░░░░░░░   54.33 % 
+Markdown                 9 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Gosu                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 38 mins      █████████████████░░░░░░░░   67.66 % 
-VS Code                  11 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.34 % 
+Claude Code              17 hrs 57 mins      ████████████████░░░░░░░░░   62.26 % 
+VS Code                  10 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
 
 🐱‍💻 Projects: 
-Service                  10 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-CC                       8 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-raleo-jobs-v2            7 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Mayo v1                  2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-pc                       1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Service                  9 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
+CC                       8 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Mayo v1                  3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+pc                       2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+raleo-jobs-v2            2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +145,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 18:42:05 UTC
+ Last Updated on 25/07/2026 07:01:08 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
