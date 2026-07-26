@@ -67,7 +67,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C395%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C395%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,7 +75,7 @@ Started this recently:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 943 Contributions in the Year 2026
+> 🏆 944 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,18 +88,18 @@ Started this recently:
 ```text
 🌞 Morning                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 🌆 Daytime                2697 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌃 Evening                3246 commits        █████████░░░░░░░░░░░░░░░░   37.74 % 
-🌙 Night                  1647 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+🌃 Evening                3247 commits        █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌙 Night                  1647 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1351 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  1382 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Monday                   1351 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Tuesday                  1382 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 Wednesday                1408 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Thursday                 1179 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Thursday                 1179 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 Friday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Sunday                   1177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 ```
 
@@ -110,22 +110,22 @@ Sunday                   1177 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               15 hrs 40 mins      ██████████████░░░░░░░░░░░   54.33 % 
-Markdown                 9 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
-JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Gosu                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript               10 hrs 8 mins       ████████████░░░░░░░░░░░░░   47.32 % 
+Markdown                 7 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
+Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Gosu                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 57 mins      ████████████████░░░░░░░░░   62.26 % 
-VS Code                  10 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
+Claude Code              11 hrs 48 mins      ██████████████░░░░░░░░░░░   55.10 % 
+VS Code                  9 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
 
 🐱‍💻 Projects: 
-Service                  9 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
-CC                       8 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Mayo v1                  3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-pc                       2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-raleo-jobs-v2            2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+CC                       8 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+Mayo v1                  4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+pc                       2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+raleo-jobs-v2            2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Service                  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +145,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 18:26:12 UTC
+ Last Updated on 26/07/2026 07:03:36 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
