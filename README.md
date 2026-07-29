@@ -67,7 +67,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C176%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C176%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2050%20mins-blue?style=flat)
 
@@ -112,47 +112,46 @@ Sunday                   1175 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               11 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   39.75 % 
-Markdown                 9 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.17 % 
-Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Svelte                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Markdown                 6 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
+TypeScript               4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Other                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+JavaScript               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Svelte                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 34 mins      ████████████████████████░   96.32 % 
-VS Code                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Claude Code              16 hrs 8 mins       ████████████████████████░   97.45 % 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            14 hrs 50 mins      █████████████░░░░░░░░░░░░   51.87 % 
-platform                 5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Mayo v1                  4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-pc                       1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-CC                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+platform                 5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
+Mayo v1                  4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+raleo-jobs-v2            4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+pc                       1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+skincare-artifacts       53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 36 mins (96.42%)
+⏱ AI Coding Time: 16 hrs 9 mins (97.61%)
 
-✍️ 30,280 lines written by AI, 78 lines written by hand (99.74% AI-written)
+✍️ 12,137 lines written by AI, 20 lines written by hand (99.84% AI-written)
 
-🔤 1,618,419,273 Input Tokens, 4,258,576 Output Tokens
+🔤 782,972,727 Input Tokens, 1,808,688 Output Tokens
 
-💵 $7539.79 Estimated AI Cost This Week
+💵 $3764.57 Estimated AI Cost This Week
 
-🧠 99 AI Sessions, 274 AI Prompts
+🧠 26 AI Sessions, 119 AI Prompts
 
-Opus                     19,262 lines        ███████████████░░░░░░░░░░   60.64 % 
-Sonnet                   12,505 lines        ██████████░░░░░░░░░░░░░░░   39.36 % 
+Opus                     7,672 lines         ████████████████░░░░░░░░░   62.45 % 
+Sonnet                   4,613 lines         █████████░░░░░░░░░░░░░░░░   37.55 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📚 Verbose Prompter — average 6,173 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.6% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 3,685 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,7 +171,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 18:46:07 UTC
+ Last Updated on 29/07/2026 07:11:23 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
