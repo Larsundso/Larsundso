@@ -67,10 +67,6 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C222%20hrs%2011%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-357%20hrs%2058%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -85,77 +81,6 @@ Started this recently:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌆 Daytime                2710 commits        ████████░░░░░░░░░░░░░░░░░   31.38 % 
-🌃 Evening                3257 commits        █████████░░░░░░░░░░░░░░░░   37.72 % 
-🌙 Night                  1656 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1361 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Tuesday                  1388 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                1421 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Thursday                 1180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Friday                   1096 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Saturday                 1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   1177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               21 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.55 % 
-Markdown                 14 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   30.75 % 
-Other                    3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Prisma                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-
-🔥 Editors: 
-Claude Code              37 hrs 37 mins      ████████████████████░░░░░   81.43 % 
-VS Code                  8 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-
-🐱‍💻 Projects: 
-raleo-jobs-v2            17 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.12 % 
-Service                  11 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Canopeer                 6 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-pc                       4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-CasualWebsite            1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 31 hrs 7 mins (67.38%)
-
-✍️ 54,387 lines written by AI, 503,294 lines written by hand (9.75% AI-written)
-
-🔤 2,980,375,948 Input Tokens, 8,892,554 Output Tokens
-
-💵 $14134.94 Estimated AI Cost This Week
-
-🧠 111 AI Sessions, 431 AI Prompts
-
-Opus                     50,261 lines        ███████████████████████░░   93.57 % 
-Fable                    2,554 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Sonnet                   897 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.75% of written lines came from AI
-📚 Verbose Prompter — average 6,634 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 94.68% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -173,7 +98,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 14:13:52 UTC
+ Last Updated on 07/08/2026 00:08:19 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
