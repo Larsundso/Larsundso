@@ -67,7 +67,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C222%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C222%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-357%20hrs%2058%20mins-blue?style=flat)
 
@@ -112,47 +112,47 @@ Sunday                   1177 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               17 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.16 % 
-Markdown                 10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Other                    3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Prisma                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               10 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.53 % 
+Markdown                 6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Other                    2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Prisma                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 53 mins      ███████████████████░░░░░░   77.30 % 
-VS Code                  8 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Claude Code              16 hrs 39 mins      █████████████████░░░░░░░░   67.69 % 
+VS Code                  7 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            12 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   34.84 % 
-Service                  8 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Canopeer                 6 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-pc                       2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-CasualWebsite            1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+raleo-jobs-v2            10 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.33 % 
+Canopeer                 6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+pc                       2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+CasualWebsite            1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JObS                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 55 mins (66.31%)
+⏱ AI Coding Time: 20 hrs 33 mins (83.57%)
 
-✍️ 24,053 lines written by AI, 485,312 lines written by hand (4.72% AI-written)
+✍️ 20,418 lines written by AI, 465,286 lines written by hand (4.2% AI-written)
 
-🔤 1,761,256,198 Input Tokens, 5,171,331 Output Tokens
+🔤 1,120,159,798 Input Tokens, 3,163,550 Output Tokens
 
-💵 $8288.14 Estimated AI Cost This Week
+💵 $5604.76 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 301 AI Prompts
+🧠 61 AI Sessions, 226 AI Prompts
 
-Opus                     21,948 lines        ████████████████████████░   94.09 % 
-Fable                    1,379 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Opus                     18,690 lines        ████████████████████████░   94.90 % 
+Fable                    1,004 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.72% of written lines came from AI
-📚 Verbose Prompter — average 4,799 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.2% of written lines came from AI
+📚 Verbose Prompter — average 4,832 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 97.5% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,7 +172,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 01:30:51 UTC
+ Last Updated on 08/08/2026 06:51:45 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
