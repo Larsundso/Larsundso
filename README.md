@@ -112,47 +112,47 @@ Sunday                   1181 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 10 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-TypeScript               10 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-C#                       4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Python                   4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-JavaScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+TypeScript               9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Markdown                 8 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+C#                       4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Python                   4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+PowerShell               2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🔥 Editors: 
-Claude Code              39 hrs 37 mins      ███████████████████████░░   93.51 % 
-VS Code                  2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Claude Code              34 hrs 6 mins       ███████████████████████░░   92.54 % 
+VS Code                  2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            13 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   31.12 % 
-pc                       8 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Canopeer                 5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Mayo v1                  4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-raleo-ssr                2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+raleo-jobs-v2            10 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+pc                       7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Canopeer                 5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Mayo v1                  4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+raleo-ssr                2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 18 mins (92.74%)
+⏱ AI Coding Time: 33 hrs 46 mins (91.65%)
 
-✍️ 33,308 lines written by AI, 329 lines written by hand (99.02% AI-written)
+✍️ 26,939 lines written by AI, 329 lines written by hand (98.79% AI-written)
 
-🔤 852,206,692 Input Tokens, 5,919,546 Output Tokens
+🔤 577,366,262 Input Tokens, 5,117,963 Output Tokens
 
-💵 $5051.38 Estimated AI Cost This Week
+💵 $3667.39 Estimated AI Cost This Week
 
-🧠 113 AI Sessions, 500 AI Prompts
+🧠 102 AI Sessions, 445 AI Prompts
 
-Opus                     33,446 lines        █████████████████████████   100.00 % 
+Opus                     27,057 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 5,208 characters per prompt
+🤖 AI-Driven — 98.79% of written lines came from AI
+📚 Verbose Prompter — average 5,294 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.59% of changed lines were hand-edited
+🚀 High AI Trust — 1.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,7 +172,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 01:55:00 UTC
+ Last Updated on 14/08/2026 07:35:50 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
