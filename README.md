@@ -67,7 +67,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C262%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C263%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-396%20hrs%2044%20mins-blue?style=flat)
 
@@ -112,46 +112,45 @@ Sunday                   1194 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               18 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.04 % 
-Markdown                 12 hrs 33 mins      ████████░░░░░░░░░░░░░░░░░   32.76 % 
-JavaScript               1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Python                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Markdown                 18 hrs 53 mins      ███████████░░░░░░░░░░░░░░   43.11 % 
+TypeScript               16 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   38.19 % 
+Python                   2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Other                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Claude Code              35 hrs 11 mins      ███████████████████████░░   91.81 % 
-VS Code                  3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Claude Code              40 hrs 13 mins      ███████████████████████░░   91.80 % 
+VS Code                  3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            25 hrs 54 mins      █████████████████░░░░░░░░   67.59 % 
-Canopeer                 3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-raleo-ssr                2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-comfy-ui                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Service                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+raleo-jobs-v2            26 hrs 5 mins       ███████████████░░░░░░░░░░   59.55 % 
+Service                  4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+raleo-ssr                3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Canopeer                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+comfy-ui                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 47 mins (90.75%)
+⏱ AI Coding Time: 36 hrs 34 mins (83.49%)
 
-✍️ 54,175 lines written by AI, 530 lines written by hand (99.03% AI-written)
+✍️ 46,600 lines written by AI, 1,450 lines written by hand (96.98% AI-written)
 
-🔤 70,269,705 Input Tokens, 7,457,913 Output Tokens
+🔤 83,465,729 Input Tokens, 8,339,449 Output Tokens
 
-💵 $2078.69 Estimated AI Cost This Week
+💵 $2307.99 Estimated AI Cost This Week
 
-🧠 138 AI Sessions, 401 AI Prompts
+🧠 109 AI Sessions, 376 AI Prompts
 
-Opus                     54,263 lines        █████████████████████████   99.81 % 
-Fable                    105 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     46,088 lines        █████████████████████████   98.68 % 
+Fable                    616 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.03% of written lines came from AI
-📚 Verbose Prompter — average 12,911 characters per prompt
+🤖 AI-Driven — 96.98% of written lines came from AI
+📚 Verbose Prompter — average 13,906 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +170,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 01:16:40 UTC
+ Last Updated on 18/08/2026 06:54:31 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
