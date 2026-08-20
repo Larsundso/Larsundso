@@ -112,46 +112,46 @@ Sunday                   1194 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               20 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.71 % 
-Markdown                 15 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
-Python                   3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Other                    39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TypeScript               21 hrs 10 mins      ████████████░░░░░░░░░░░░░   48.86 % 
+Markdown                 14 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.52 % 
+Python                   3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-Claude Code              40 hrs 29 mins      ███████████████████████░░   92.73 % 
-VS Code                  3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Claude Code              39 hrs 51 mins      ███████████████████████░░   92.01 % 
+VS Code                  3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            33 hrs 26 mins      ███████████████████░░░░░░   76.59 % 
-comfy-ui                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Service                  1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Lily2                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-pc                       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+raleo-jobs-v2            34 hrs 58 mins      ████████████████████░░░░░   80.74 % 
+Lily2                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+pc                       1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+comfy-ui                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+CC                       1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 21 mins (90.14%)
+⏱ AI Coding Time: 40 hrs 8 mins (92.64%)
 
-✍️ 53,519 lines written by AI, 712 lines written by hand (98.69% AI-written)
+✍️ 51,334 lines written by AI, 527 lines written by hand (98.98% AI-written)
 
-🔤 87,816,827 Input Tokens, 8,323,135 Output Tokens
+🔤 90,374,668 Input Tokens, 8,142,927 Output Tokens
 
-💵 $2654.73 Estimated AI Cost This Week
+💵 $2719.61 Estimated AI Cost This Week
 
-🧠 132 AI Sessions, 395 AI Prompts
+🧠 129 AI Sessions, 409 AI Prompts
 
-Opus                     53,007 lines        █████████████████████████   98.85 % 
-Fable                    616 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Opus                     50,850 lines        █████████████████████████   98.80 % 
+Fable                    616 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.69% of written lines came from AI
-📚 Verbose Prompter — average 16,604 characters per prompt
+🤖 AI-Driven — 98.98% of written lines came from AI
+📚 Verbose Prompter — average 15,973 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.59% of changed lines were hand-edited
+🚀 High AI Trust — 1.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +171,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 01:11:59 UTC
+ Last Updated on 20/08/2026 07:00:33 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
