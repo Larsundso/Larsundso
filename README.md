@@ -67,11 +67,11 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C322%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C322%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-451%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -88,21 +88,21 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                2732 commits        ████████░░░░░░░░░░░░░░░░░   31.40 % 
-🌃 Evening                3275 commits        █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌙 Night                  1682 commits        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+🌞 Morning                1008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                2700 commits        ████████░░░░░░░░░░░░░░░░░   31.50 % 
+🌃 Evening                3211 commits        █████████░░░░░░░░░░░░░░░░   37.46 % 
+🌙 Night                  1652 commits        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1375 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Tuesday                  1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Wednesday                1425 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Friday                   1104 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Saturday                 1017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Sunday                   1204 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Monday                   1347 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  1362 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday                1408 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Thursday                 1175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Friday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Saturday                 990 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Sunday                   1195 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 
 
@@ -112,46 +112,46 @@ Sunday                   1204 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               13 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   32.36 % 
-JavaScript               7 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Other                    5 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Markdown                 4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Python                   3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+TypeScript               10 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+JavaScript               6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Markdown                 4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Other                    3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Python                   3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 🔥 Editors: 
-Claude Code              37 hrs 11 mins      ███████████████████████░░   90.13 % 
-VS Code                  4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Claude Code              31 hrs 59 mins      ███████████████████████░░   90.71 % 
+VS Code                  3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            23 hrs 3 mins       ██████████████░░░░░░░░░░░   55.91 % 
-Service                  5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Ayako                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-raleo-ssr                2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Canopeer                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+raleo-jobs-v2            18 hrs 25 mins      █████████████░░░░░░░░░░░░   52.27 % 
+Service                  5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Ayako                    3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+raleo-ssr                2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Canopeer                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 17 mins (80.7%)
+⏱ AI Coding Time: 28 hrs 22 mins (80.45%)
 
-✍️ 9,815 lines written by AI, 1,137 lines written by hand (89.62% AI-written)
+✍️ 9,441 lines written by AI, 533 lines written by hand (94.66% AI-written)
 
-🔤 93,363,100 Input Tokens, 4,813,946 Output Tokens
+🔤 75,223,088 Input Tokens, 3,949,004 Output Tokens
 
-💵 $2210.04 Estimated AI Cost This Week
+💵 $1818.11 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 392 AI Prompts
+🧠 64 AI Sessions, 345 AI Prompts
 
-Opus                     9,827 lines         █████████████████████████   100.00 % 
+Opus                     9,449 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.62% of written lines came from AI
-📚 Verbose Prompter — average 4,969 characters per prompt
+🤖 AI-Driven — 94.66% of written lines came from AI
+📚 Verbose Prompter — average 4,482 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.52% of changed lines were hand-edited
+🚀 High AI Trust — 6.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +171,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 21:49:55 UTC
+ Last Updated on 29/08/2026 05:42:10 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
