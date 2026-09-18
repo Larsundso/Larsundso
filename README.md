@@ -67,11 +67,11 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C413%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C416%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-532%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-540%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.37%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.81%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -88,21 +88,21 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-🌆 Daytime                2863 commits        ████████░░░░░░░░░░░░░░░░░   31.97 % 
-🌃 Evening                3357 commits        █████████░░░░░░░░░░░░░░░░   37.49 % 
-🌙 Night                  1723 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+🌞 Morning                991 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+🌆 Daytime                2716 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
+🌃 Evening                3204 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
+🌙 Night                  1657 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1406 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Tuesday                  1467 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Wednesday                1460 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 1215 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Friday                   1125 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Saturday                 1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Sunday                   1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Monday                   1324 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Tuesday                  1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Wednesday                1399 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 1154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Friday                   1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Saturday                 985 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Sunday                   1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 ```
 
 
@@ -159,11 +159,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            ████████████░░░░░░░░░░░░░   46.67 % 
-ShaderLab                5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+TypeScript               28 repos            ████████████░░░░░░░░░░░░░   47.46 % 
+ShaderLab                5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
@@ -173,7 +173,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:02:44 UTC
+ Last Updated on 18/09/2026 03:15:05 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
