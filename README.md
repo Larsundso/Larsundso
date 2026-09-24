@@ -112,48 +112,48 @@ Sunday                   1258 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    18 hrs 58 mins      ███████████░░░░░░░░░░░░░░   43.86 % 
-TypeScript               9 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-Markdown                 8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-JavaScript               2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Other                    15 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.92 % 
+Markdown                 10 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+TypeScript               9 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+JavaScript               4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+PowerShell               41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 27 mins      █████████████████████░░░░   84.25 % 
-VS Code                  6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Claude Code              37 hrs 15 mins      ██████████████████████░░░   87.03 % 
+VS Code                  5 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            20 hrs 31 mins      ████████████░░░░░░░░░░░░░   47.42 % 
-alibaba                  9 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Canopeer                 4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Service                  2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-pc                       1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+raleo-jobs-v2            21 hrs 17 mins      ████████████░░░░░░░░░░░░░   49.72 % 
+alibaba                  6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Canopeer                 4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Service                  2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+pc                       2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 14 mins (93.0%)
+⏱ AI Coding Time: 40 hrs 25 mins (94.42%)
 
-✍️ 44,195 lines written by AI, 583 lines written by hand (98.7% AI-written)
+✍️ 50,126 lines written by AI, 400 lines written by hand (99.21% AI-written)
 
-🔤 109,067,301 Input Tokens, 8,892,332 Output Tokens
+🔤 105,026,024 Input Tokens, 8,638,049 Output Tokens
 
-💵 $1932.95 Estimated AI Cost This Week
+💵 $1999.39 Estimated AI Cost This Week
 
-🧠 168 AI Sessions, 559 AI Prompts
+🧠 158 AI Sessions, 577 AI Prompts
 
-Opus                     39,078 lines        ██████████████████████░░░   88.19 % 
-Sonnet                   4,981 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-ZCode                    251 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Opus                     45,019 lines        ██████████████████████░░░   89.59 % 
+Sonnet                   4,981 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+ZCode                    251 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.7% of written lines came from AI
-📚 Verbose Prompter — average 3,911 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.88% of changed lines were hand-edited
+🤖 AI-Driven — 99.21% of written lines came from AI
+📚 Verbose Prompter — average 3,617 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,7 +173,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 03:11:07 UTC
+ Last Updated on 24/09/2026 11:12:08 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
