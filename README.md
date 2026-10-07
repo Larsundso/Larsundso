@@ -67,7 +67,7 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C451%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C451%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-576%20hrs%2034%20mins-blue?style=flat)
 
@@ -112,46 +112,46 @@ Sunday                   1242 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 9 hrs 7 mins        ██████████████░░░░░░░░░░░   54.63 % 
-TypeScript               2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Markdown                 6 hrs 13 mins       ███████████████░░░░░░░░░░   59.96 % 
+TypeScript               1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Svelte                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 15 mins      ███████████████████████░░   91.24 % 
-VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Claude Code              9 hrs 22 mins       ███████████████████████░░   90.45 % 
+VS Code                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🐱‍💻 Projects: 
-Service                  8 hrs 23 mins       █████████████░░░░░░░░░░░░   50.20 % 
-Mayo v1                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-pc                       1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Canopeer                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Ayako                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Service                  5 hrs 11 mins       █████████████░░░░░░░░░░░░   50.14 % 
+Mayo v1                  1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Website                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+raleo-jobs-v2            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+pc                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 57 mins (77.57%)
+⏱ AI Coding Time: 8 hrs 16 mins (79.77%)
 
-✍️ 1,390 lines written by AI, 2,279 lines written by hand (37.88% AI-written)
+✍️ 560 lines written by AI, 2,038 lines written by hand (21.56% AI-written)
 
-🔤 19,294,719 Input Tokens, 2,256,078 Output Tokens
+🔤 12,938,770 Input Tokens, 1,509,035 Output Tokens
 
-💵 $428.05 Estimated AI Cost This Week
+💵 $290.10 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 194 AI Prompts
+🧠 42 AI Sessions, 122 AI Prompts
 
-Opus                     1,594 lines         █████████████████████████   100.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     764 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.88% of written lines came from AI
-📚 Verbose Prompter — average 3,352 characters per prompt
+🧑‍💻 Mostly Hands-On — 21.56% of written lines came from AI
+📚 Verbose Prompter — average 2,846 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 62.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +171,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:25:22 UTC
+ Last Updated on 07/10/2026 04:19:50 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
