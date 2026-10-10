@@ -67,17 +67,17 @@ Started this recently:
 ![Metrics](/github-metrics.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C451%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C452%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-576%20hrs%2034%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.48%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,402 Contributions in the Year 2026
+> 🏆 1,408 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,21 +88,21 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-🌆 Daytime                2873 commits        ████████░░░░░░░░░░░░░░░░░   32.17 % 
-🌃 Evening                3344 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌙 Night                  1700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+🌞 Morning                966 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+🌆 Daytime                2707 commits        ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌃 Evening                3179 commits        █████████░░░░░░░░░░░░░░░░   37.36 % 
+🌙 Night                  1656 commits        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  1481 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                1451 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 1208 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   1107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Saturday                 1029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   1242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Monday                   1309 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Tuesday                  1435 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Wednesday                1389 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 1143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Friday                   1051 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Saturday                 984 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   1197 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 ```
 
 
@@ -112,30 +112,30 @@ Sunday                   1242 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 3 hrs 15 mins       █████████████░░░░░░░░░░░░   53.90 % 
-TypeScript               1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Other                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Markdown                 3 hrs 15 mins       █████████████░░░░░░░░░░░░   52.38 % 
+TypeScript               1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Other                    50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 34 mins       ███████████████████████░░   92.20 % 
-VS Code                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Claude Code              5 hrs 34 mins       ██████████████████████░░░   89.60 % 
+VS Code                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 
 🐱‍💻 Projects: 
-Service                  2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
-Mayo v1                  1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-raleo-jobs-v2            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-pc                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-scratch-foep-1004        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Service                  2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
+Mayo v1                  1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+raleo-jobs-v2            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+pc                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+scratch-foep-1004        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 45 mins (78.81%)
+⏱ AI Coding Time: 4 hrs 45 mins (76.59%)
 
-✍️ 524 lines written by AI, 734 lines written by hand (41.65% AI-written)
+✍️ 524 lines written by AI, 736 lines written by hand (41.59% AI-written)
 
 🔤 9,784,218 Input Tokens, 1,049,525 Output Tokens
 
@@ -148,10 +148,10 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.65% of written lines came from AI
+⚖️ Balanced with AI — 41.59% of written lines came from AI
 📚 Verbose Prompter — average 3,117 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 57.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +171,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:20:23 UTC
+ Last Updated on 10/10/2026 04:22:52 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
