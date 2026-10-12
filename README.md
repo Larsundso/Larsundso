@@ -112,46 +112,47 @@ Sunday                   1242 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 4 hrs 36 mins       ██████████████░░░░░░░░░░░   54.71 % 
-TypeScript               1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Markdown                 11 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.57 % 
+Other                    3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+TypeScript               3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+JSON                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Python                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 18 mins       ██████████████████████░░░   86.73 % 
-VS Code                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Claude Code              19 hrs 16 mins      ████████████████████░░░░░   79.89 % 
+VS Code                  4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
 
 🐱‍💻 Projects: 
-Service                  1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Mayo v1                  1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-raleo-jobs-v2            1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-lucia                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-pc                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Mayo v1                  5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Service                  4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+raleo-jobs-v2            4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+minecraft                1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+lucia                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 45 mins (80.34%)
+⏱ AI Coding Time: 21 hrs 13 mins (87.98%)
 
-✍️ 1,008 lines written by AI, 736 lines written by hand (57.8% AI-written)
+✍️ 4,647 lines written by AI, 1,762 lines written by hand (72.51% AI-written)
 
-🔤 10,950,446 Input Tokens, 1,524,646 Output Tokens
+🔤 20,941,590 Input Tokens, 2,915,572 Output Tokens
 
-💵 $243.76 Estimated AI Cost This Week
+💵 $494.38 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 98 AI Prompts
+🧠 140 AI Sessions, 296 AI Prompts
 
-Opus                     1,038 lines         █████████████████████████   100.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,698 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.8% of written lines came from AI
-📚 Verbose Prompter — average 3,833 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 42.62% of changed lines were hand-edited
+🤖 AI-Driven — 72.51% of written lines came from AI
+📚 Verbose Prompter — average 4,443 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 27.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,7 +172,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 21:33:31 UTC
+ Last Updated on 12/10/2026 04:20:54 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
