@@ -71,7 +71,7 @@ Started this recently:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-600%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -88,21 +88,21 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1013 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-🌆 Daytime                2885 commits        ████████░░░░░░░░░░░░░░░░░   32.08 % 
-🌃 Evening                3377 commits        █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌙 Night                  1717 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌞 Morning                998 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+🌆 Daytime                2799 commits        ████████░░░░░░░░░░░░░░░░░   31.86 % 
+🌃 Evening                3292 commits        █████████░░░░░░░░░░░░░░░░   37.48 % 
+🌙 Night                  1695 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  1491 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                1451 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 1221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Friday                   1109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Saturday                 1044 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Sunday                   1254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Monday                   1370 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Tuesday                  1461 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Wednesday                1418 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 1187 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   1090 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Saturday                 1023 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sunday                   1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
 
@@ -112,44 +112,44 @@ Sunday                   1254 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 10 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   35.96 % 
-TypeScript               6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Other                    3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-JavaScript               3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-mcfunction               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Markdown                 6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
+TypeScript               5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Other                    3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+mcfunction               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 44 mins      ████████████████████████░   97.46 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Claude Code              19 hrs 20 mins      ████████████████████████░   97.42 % 
+VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-raleo-jobs-v2            11 hrs 1 min        ██████████░░░░░░░░░░░░░░░   38.73 % 
-records                  2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Service                  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Mods                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-alertgate-20261015       1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+raleo-jobs-v2            8 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.60 % 
+Service                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+alertgate-20261015       1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Mods                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+records                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 21 mins (96.13%)
+⏱ AI Coding Time: 18 hrs 59 mins (95.64%)
 
-✍️ 6,584 lines written by AI, 46 lines written by hand (99.31% AI-written)
+✍️ 3,494 lines written by AI, 44 lines written by hand (98.76% AI-written)
 
-🔤 13,661,284 Input Tokens, 3,036,323 Output Tokens
+🔤 8,166,498 Input Tokens, 2,255,873 Output Tokens
 
-💵 $599.65 Estimated AI Cost This Week
+💵 $462.44 Estimated AI Cost This Week
 
-🧠 142 AI Sessions, 430 AI Prompts
+🧠 120 AI Sessions, 336 AI Prompts
 
-Opus                     6,602 lines         █████████████████████████   100.00 % 
+Opus                     3,501 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.31% of written lines came from AI
-📚 Verbose Prompter — average 3,875 characters per prompt
+🤖 AI-Driven — 98.76% of written lines came from AI
+📚 Verbose Prompter — average 4,265 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🚀 High AI Trust — 1.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,7 +169,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 03:20:43 UTC
+ Last Updated on 21/10/2026 11:17:12 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
