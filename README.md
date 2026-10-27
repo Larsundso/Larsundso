@@ -71,7 +71,7 @@ Started this recently:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-608%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -88,21 +88,21 @@ Started this recently:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1021 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-🌆 Daytime                2954 commits        ████████░░░░░░░░░░░░░░░░░   32.07 % 
-🌃 Evening                3450 commits        █████████░░░░░░░░░░░░░░░░   37.46 % 
-🌙 Night                  1786 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+🌞 Morning                1029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+🌆 Daytime                3014 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
+🌃 Evening                3510 commits        █████████░░░░░░░░░░░░░░░░   37.30 % 
+🌙 Night                  1858 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1459 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Tuesday                  1514 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Wednesday                1488 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Thursday                 1254 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Friday                   1141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Saturday                 1061 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Monday                   1478 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Tuesday                  1539 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Wednesday                1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Thursday                 1287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Friday                   1173 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Saturday                 1078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Sunday                   1330 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 ```
 
 
@@ -169,7 +169,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 17:36:18 UTC
+ Last Updated on 27/10/2026 21:56:45 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
