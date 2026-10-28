@@ -85,73 +85,6 @@ Started this recently:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-🌆 Daytime                3014 commits        ████████░░░░░░░░░░░░░░░░░   32.03 % 
-🌃 Evening                3510 commits        █████████░░░░░░░░░░░░░░░░   37.30 % 
-🌙 Night                  1858 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1478 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  1539 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Wednesday                1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Thursday                 1287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Friday                   1173 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Saturday                 1078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Sunday                   1330 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-JSON                     2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
-JavaScript               1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Other                    1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-
-🔥 Editors: 
-Claude Code              7 hrs 37 mins       ████████████████████████░   96.90 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-
-🐱‍💻 Projects: 
-raleo-jobs-v2            3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.02 % 
-Service                  1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-cv-astro                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-pc                       48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-agents                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 hrs 18 mins (92.98%)
-
-✍️ 3,643 lines written by AI, 4 lines written by hand (99.89% AI-written)
-
-🔤 6,508,330 Input Tokens, 1,899,185 Output Tokens
-
-💵 $250.20 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 109 AI Prompts
-
-Opus                     3,706 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 5,579 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.35% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -169,7 +102,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Larsundso/Larsundso/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 21:56:45 UTC
+ Last Updated on 28/10/2026 04:02:51 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Larsundso/f59bf58e-3d24-49c2-8aad-9878e5e70681.png" /></a>
